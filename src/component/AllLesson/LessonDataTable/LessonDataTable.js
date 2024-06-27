@@ -7,7 +7,7 @@ const LessonDataTable = ({ lesson }) => {
                 <tr>
                     <th className="text-secondary text-left" scope="col">Sr No</th>
                     <th className="text-secondary" scope="col">Name</th>
-                    <th className="text-secondary" scope="col">Gendar</th>
+                    <th className="text-secondary" scope="col">Gender</th>
                     <th className="text-secondary" scope="col">Phone</th>
                     <th className="text-secondary" scope="col">Email</th>
                 </tr>
