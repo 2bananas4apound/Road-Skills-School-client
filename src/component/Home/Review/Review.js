@@ -12,9 +12,9 @@ const Review = () => {
     return (
         <div className="container services">
             <div className="service-desc text-center">
-                <h1 className="services-headline">What <span className="brand-color">Client Says</span> <br /> About Us</h1>
+                <h1 className="services-headline"><span className="brand-color">Test Your Mental Health</span> <br /> /h1>
                 <div className="py-3">
-                    <p>The School offers the Following services for Teenages firs-time Drivers , new <br /> adult learnser and existing learners and existing drivers with lapsed licences.</p>
+                    <p>Check your mental well-being with this fun quiz <br> <a href = "https://www.healthcentral.com/quizzes/mental-health">Take Quiz</a></p>
                 </div>
             </div>
             <hr />
