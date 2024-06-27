@@ -6,7 +6,7 @@ import './AppointMent.css';
 const AppoinmentHeader = ({ handleDateChange }) => {
     return (
         <main style={{ height: '700px' }} className="row d-flex align-items-center">
-                <h2 className="brand-color ChoseLesson">Choose Your Lesson Shedule </h2>
+                <h2 className="brand-color ChoseLesson">Choose Session</h2>
             <div className="col-md-4 col-sm-12 offset-md-1 text-center my-auto">
                 <div className="text-center calendarDiv">
                     <Calendar className="cal"
