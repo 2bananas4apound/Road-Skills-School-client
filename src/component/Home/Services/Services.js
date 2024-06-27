@@ -13,9 +13,10 @@ const Services = () => {
     return (
         <div className="container services">
             <div className="service-desc text-center">
-                <h1 className="services-headline"> <span className="brand-color">Our Driving</span> Services</h1>
+                <h1 className="services-headline"> <span className="brand-color">Breaking Barriers, Building Wellbeing</span> Services</h1>
                 <div className="py-3">
-                    <p>The School offers the Following services for Teenages firs-time Drivers , new <br /> adult learnser and existing learners and existing drivers with lapsed licences.</p>
+                    <p>Seeking help for mental health challenges can feel daunting, especially for students <br>
+                  We prioritize creating a safe and supportive space  <br /> where they feel comfortable sharing their experiences.</p>
                 </div>
             </div>
 
