@@ -7,7 +7,7 @@ const MainHeader = () => {
         <main className="py-5">
             <div className="main-header">
                 <div className="container-headline">
-                    <h1 className="text-white">Orginal Provider <br /> <span className="headline-span">for Online Traffic School</span></h1>
+                    <h1 className="text-white">Supporting Student Wellness<br /> <span className="headline-span">Free Therapy Services</span></h1>
                     <div className="hr-style">
                         <hr />
                     </div>
@@ -15,15 +15,14 @@ const MainHeader = () => {
                 <div className="header-desc py-5">
                     <div className="header-top-desc text-white">
                         <ul className="header-list">
-                            <li>No Time Requirements , study at Your Own pace</li>
-                            <li>California DMV Licensed & Court Accepted</li>
-                            <li>Avoid Points & License Susspension</li>
+                            <li>No Scheduling Conflicts </li>
+                            <li>Full Confidentiality </li>
+                            <li>Free of Cost Online and In-person Sessions</li>
+                            <li>Consult Anonymously From Anywhere</li>
                         </ul>
                     </div>
                     <div className="header-bottom-desc d-flex">
-                        <button className="btn btn-primary btn-block btn-lg"><Link to="/appointment" className="registerBtn">Register Now</Link></button>
-                        <h1 style={{ color: "#f5ae2b" }}>73 USD</h1>
-                        <p>Includes free court & DMV Susspension</p>
+                        <button className="btn btn-primary btn-block btn-lg"><Link to="/appointment" className="registerBtn">Book a Session</Link></button>
                     </div>
                 </div>
             </div>
